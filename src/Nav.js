@@ -42,23 +42,11 @@ const Nav = () => {
                 </button>
               </Link>
             </li>
-            {/* <li >
-              <Link to="/Blog">
-                <button className="navbar-link">
-                  Blog
-                </button>
-              </Link>
-            </li> */}
             <li >
               <Link to="/contact">
                 <button className="navbar-link" >
                   Contact
                 </button>
-              </Link>
-            </li>
-            <li >
-              <Link to="/RegisterForm">
-              <Register/>
               </Link>
             </li>
              </ul>

@@ -15,9 +15,6 @@ const MenuItem = ({ title, img, desc, category,anchor }) => {
               {desc}
             </p>
           </header>
-          
-           
-         
         </div>
       </figure>
       </a>
