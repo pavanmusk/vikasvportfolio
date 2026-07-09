@@ -165,6 +165,6 @@ const menu = [
     anchor: 'https://shrijihospital.modevcloud.com/',
     desc: `Developed a responsive Shriji Hospital wordpress website with modern design and optimized performance.`,
   },
-
+ 
 ];
 export default menu;
