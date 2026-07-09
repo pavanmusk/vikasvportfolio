@@ -4,7 +4,7 @@ import React from 'react';
 // import Aside from './SidebarComponent/Aside';
 // import aboutimg from './rb_67075.png';
 
-import { FiMail, FiPhone, FiCalendar, FiMapPin } from "react-icons/fi";
+import { FiMail, FiPhone,  FiMapPin } from "react-icons/fi";
 import { FaBriefcase } from "react-icons/fa";
 import Nav from './Nav';
 const App = () => {

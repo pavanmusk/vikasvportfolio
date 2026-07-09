@@ -5,8 +5,7 @@ import Blog from './BlogComponent/Blog';
 import Resume from './ResumeComponent/Resume';
 import Portfolio from './PortfolioComponent/Portfolio';
 import About from './AboutComponent/About';
-import Home from './Home';
-import Register from './RegisterComponent/Register';
+import Home from './Home'; 
 import RegisterForm from './RegisterComponent/RegisterForm';
 const Nav = () => {
   return (
