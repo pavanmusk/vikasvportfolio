@@ -1,3 +1,11 @@
+import React from 'react'
+import menu from '../data';
+import { useState } from 'react';
+import Categories from './Categories';
+import Menu from './Menu';
+
+const allCategories=['All',...new Set(menu.map((item)=>item.category))]
+
 const Portfolio = () => {
   const [menuItems, setMenuItems] = useState(menu);
   const categories = allCategories;
@@ -30,3 +38,5 @@ const Portfolio = () => {
     </article>
   );
 };
+
+export default Portfolio
